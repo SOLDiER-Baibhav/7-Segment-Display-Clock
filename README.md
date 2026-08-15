@@ -3,7 +3,6 @@ project focuses on building a 7-segment display clock, combining electronics and
 
 
 
-
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/980255c60041c9fe132e4f4b4fb65ee7c65795c9/7-Segment-Display-Clock%20circuit%20diagram.png)
 
 
@@ -11,6 +10,9 @@ project focuses on building a 7-segment display clock, combining electronics and
 
 ANOD VS CATHOD
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/seven%20segment%20display%20common%20cathode%20vs%20anode%20diff.png)
+
+
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/5fcc67371a34f07f728c0e278201e100110a78ba/image/cathode%20and%20anode%20code.png)
 
 
 
