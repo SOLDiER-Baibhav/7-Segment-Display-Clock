@@ -6,3 +6,32 @@ project focuses on building a 7-segment display clock, combining electronics and
 
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/980255c60041c9fe132e4f4b4fb65ee7c65795c9/7-Segment-Display-Clock%20circuit%20diagram.png)
 
+
+ANOD VS CATHOD
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/seven%20segment%20display%20common%20cathode%20vs%20anode%20diff.png)
+
+
+L7805
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/L7805CV.jpg)
+
+
+
+DS3231 RTC Module
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/DS3231%20RTC%20Module.webp)
+
+Arduino FULL BORDE
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/Arduino.jpg)
+
+
+ATmega328 U Microcontroller
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/ATmega328%20U%20Microcontroller.jpg)
+
+16 mhz crystal
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/16%20mhz%20crystal.jpg)
+
+
+104 ceramic capacitor
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/104%20ceramic%20capacitor.jpg)
+
+
+![image alt]()
