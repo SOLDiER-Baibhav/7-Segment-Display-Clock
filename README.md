@@ -27,6 +27,7 @@ project focuses on building a 7-segment display clock, combining electronics and
 
 
 If using the cathode display then use the cathode code
+
 If using the anode display then use the anode code
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/5fcc67371a34f07f728c0e278201e100110a78ba/image/cathode%20and%20anode%20code.png)
 
