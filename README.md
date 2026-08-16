@@ -19,9 +19,6 @@ project focuses on building a 7-segment display clock, combining electronics and
  **7 Segment Display Cathode and Anode Difference**
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/seven%20segment%20display%20common%20cathode%20vs%20anode%20diff.png)
 
-<br>
-<br>
-<br>
 
 **Important Code Part**
 
@@ -31,19 +28,27 @@ If using the cathode display then use the cathode code
 If using the anode display then use the anode code
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/5fcc67371a34f07f728c0e278201e100110a78ba/image/cathode%20and%20anode%20code.png)
 
+<br>
+<br>
+<br>
 
+**ATmega328 U Microcontroller**
+
+The ATmega328U (often labeled as ATmega328P-U) is a low-power, high-performance 8-bit AVR RISC microcontroller. It features 32KB of Flash memory, 2KB of SRAM, 1KB of EEPROM, and runs at speeds up to 20 MHz. It is widely famous as the core processor used in Arduino Uno boards
+
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/195b159461947c17320e1a45b3f25b938baad775/image/ATmega328%20U%20Microcontroller.jpg)
+
+
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/Arduino.jpg)
 <br>
 <br>
 <br>
+
 
 L7805CV
 The L7805CV is 3-terminal positive linear voltage regulator integrated circuit by STMicroelectronics. It takes an unregulated DC input voltage between 7V and 35V and steps it down to a stable, fixed 5V output capable of supplying up to 1.5A of current
 
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/L7805CV.jpg)
-
-
-
-
 
 
 <br>
@@ -55,20 +60,6 @@ a low-cost, highly accurate I2C real-time clock. It features an integrated tempe
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/DS3231%20RTC%20Module.webp)
 
 
-
-
-
-
-
-
-**ATmega328 U Microcontroller**
-
-The ATmega328U (often labeled as ATmega328P-U) is a low-power, high-performance 8-bit AVR RISC microcontroller. It features 32KB of Flash memory, 2KB of SRAM, 1KB of EEPROM, and runs at speeds up to 20 MHz. It is widely famous as the core processor used in Arduino Uno boards
-
-![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/195b159461947c17320e1a45b3f25b938baad775/image/ATmega328%20U%20Microcontroller.jpg)
-
-
-![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/Arduino.jpg)
 
 <br>
 <br>
