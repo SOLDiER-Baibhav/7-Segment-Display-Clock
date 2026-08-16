@@ -17,6 +17,9 @@ circuit diagram
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/seven%20segment%20display%20common%20cathode%20vs%20anode%20diff.png)
 
 
+
+
+
 If using the cathode display then use the cathode code
 
 If using the anode display then use the anode code
@@ -28,6 +31,7 @@ If using the anode display then use the anode code
 
 L7805CV
 The L7805CV is 3-terminal positive linear voltage regulator integrated circuit by STMicroelectronics. It takes an unregulated DC input voltage between 7V and 35V and steps it down to a stable, fixed 5V output capable of supplying up to 1.5A of current
+
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/L7805CV.jpg)
 
 
