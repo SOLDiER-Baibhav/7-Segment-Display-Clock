@@ -2,6 +2,11 @@
 project focuses on building a 7-segment display clock, combining electronics and programming to create a functional digital timekeeper
 
 
+
+prototype
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/872da5fce8d8ff43cf15d42ab083c58750862b8a/image/prototype.jpeg)
+
+
 circuit diagram
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/980255c60041c9fe132e4f4b4fb65ee7c65795c9/7-Segment-Display-Clock%20circuit%20diagram.png)
 
