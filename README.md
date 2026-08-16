@@ -7,7 +7,7 @@ project focuses on building a 7-segment display clock, combining electronics and
 
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/872da5fce8d8ff43cf15d42ab083c58750862b8a/image/prototype.jpeg)
 
-
+<br>
 
 
 
