@@ -46,7 +46,8 @@ The ATmega328U (often labeled as ATmega328P-U) is a low-power, high-performance 
 <br>
 <br>
 
-DS3231 RTC Module
+**DS3231 RTC Module**
+
 a low-cost, highly accurate I2C real-time clock. It features an integrated temperature-compensated crystal oscillator (TCXO), making it far more precise than older modules like the DS1307. It tracks seconds, minutes, hours, day, date, month, and year with leap-year compensation up to 2100
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/DS3231%20RTC%20Module.webp)
 
@@ -54,7 +55,8 @@ a low-cost, highly accurate I2C real-time clock. It features an integrated tempe
 <br>
 <br>
 
-L7805CV
+**L7805CV**
+
 The L7805CV is 3-terminal positive linear voltage regulator integrated circuit by STMicroelectronics. It takes an unregulated DC input voltage between 7V and 35V and steps it down to a stable, fixed 5V output capable of supplying up to 1.5A of current
 
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/L7805CV.jpg)
