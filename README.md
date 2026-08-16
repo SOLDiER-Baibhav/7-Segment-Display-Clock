@@ -23,9 +23,8 @@ project focuses on building a 7-segment display clock, combining electronics and
 <br>
 <br>
 <br>
-
+**Important Code Part**
 If using the cathode display then use the cathode code
-
 If using the anode display then use the anode code
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/5fcc67371a34f07f728c0e278201e100110a78ba/image/cathode%20and%20anode%20code.png)
 
@@ -51,30 +50,22 @@ a low-cost, highly accurate I2C real-time clock. It features an integrated tempe
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/DS3231%20RTC%20Module.webp)
 
 
-<br>
-<br>
-<br>
+
 Arduino FULL BORDE
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/Arduino.jpg)
 
 
 
-<br>
-<br>
-<br>
+
 ATmega328 U Microcontroller
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/ATmega328%20U%20Microcontroller.jpg)
 
 
-<br>
-<br>
-<br>
+
 16 mhz crystal
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/16%20mhz%20crystal.jpg)
 
-<br>
-<br>
-<br>
+
 104 ceramic capacitor
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/104%20ceramic%20capacitor.jpg)
 
