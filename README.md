@@ -65,12 +65,17 @@ Arduino FULL BORDE
 ATmega328 U Microcontroller
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/ATmega328%20U%20Microcontroller.jpg)
 
+<br>
+<br>
 
+**16 mhz crystal**
+A 16 MHz quartz crystal is a passive electronic component that uses piezoelectric mechanical resonance to produce a stable 16 million cycles per second (16 MHz) clock signal. It is widely used to synchronize microcontrollers, microprocessors, and RF communication circuits
 
-16 mhz crystal
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/16%20mhz%20crystal.jpg)
 
+<br>
+<br>
 
-104 ceramic capacitor
+**104 ceramic capacitor**
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/104%20ceramic%20capacitor.jpg)
 
