@@ -56,26 +56,29 @@ a low-cost, highly accurate I2C real-time clock. It features an integrated tempe
 
 
 
-Arduino FULL BORDE
+
+
+
+
+
+**ATmega328 U Microcontroller**
+
+The ATmega328U (often labeled as ATmega328P-U) is a low-power, high-performance 8-bit AVR RISC microcontroller. It features 32KB of Flash memory, 2KB of SRAM, 1KB of EEPROM, and runs at speeds up to 20 MHz. It is widely famous as the core processor used in Arduino Uno boards
+
+![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/195b159461947c17320e1a45b3f25b938baad775/image/ATmega328%20U%20Microcontroller.jpg)
+
+
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/Arduino.jpg)
-
-
-
-
-ATmega328 U Microcontroller
-![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/ATmega328%20U%20Microcontroller.jpg)
 
 <br>
 <br>
 
 **16 mhz crystal**
+
 A 16 MHz quartz crystal is a passive electronic component that uses piezoelectric mechanical resonance to produce a stable 16 million cycles per second (16 MHz) clock signal. It is widely used to synchronize microcontrollers, microprocessors, and RF communication circuits
 
 ![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/16%20mhz%20crystal.jpg)
 
 <br>
 <br>
-
-**104 ceramic capacitor**
-![image alt](https://github.com/SOLDiER-Baibhav/7-Segment-Display-Clock/blob/3eb7d3f7c6303bb04e9195a539b96ee13ac0ddc9/image/104%20ceramic%20capacitor.jpg)
 
